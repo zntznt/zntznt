@@ -1,6 +1,6 @@
 ## I'm Zeo
 
-I use AI to solve problems of my own and explore the intersection between art and technology.
+I use code to solve problems of my own and explore the intersection between art and technology.
 
 - 📝 [pointliner](https://github.com/zntznt/pointliner): offline outliner with generators, tables, and math
 - 🔧 [rally](https://github.com/zntznt/rally): game agnostic army list engine
